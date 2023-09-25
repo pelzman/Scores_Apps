@@ -1,0 +1,20 @@
+/* .mygrid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  height: 100vh;
+}
+.nav{
+grid-column: span 2;
+
+}
+.side{
+grid-row: auto;
+height: 100vh
+
+}
+.main{
+  height: 100vh;
+  grid-column: span 2;
+ 
+} */
+
